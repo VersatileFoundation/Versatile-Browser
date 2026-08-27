@@ -1,16 +1,8 @@
 # Versatile Browser/VBrowser
-The Official Browser Of The Versatile Foundation, Updated Weekly!
+The Official Browser Of The Versatile Foundation.
 
-## Current Compatible Devices:
+New Build Coming Soon
 
-Windows 11/10 Devices
+Along With VClient :)
 
-### Coming Out Today!:
-
-Mac OS
-
-Linux
-
-### Coming Out Soon:
-
-Mobile (Android Only)
+#builtin
